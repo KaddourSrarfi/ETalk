@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">EkuEgerTalk</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Available">Available Now</string>
+    <string name="Username">Username</string>
+    <string name="Update">Update</string>
+    <string name="Need_a_new_account">Need a New Account ?</string>
+    <string name="Login">Login</string>
+    <string name="Todo">TODO</string>
+    <string name="Email">Email...</string>
+    <string name="Password">Password...</string>
+    <string name="Forget_password">Forget Password ?</string>
+    <string name="or_Login_using_your">or Login using your</string>
+    <string name="Phone_login">Phone Login</string>
+    <string name="Switch">Switch</string>
+    <string name="contacts_fragment">Contacts Fragment</string>
+    <string name="chats_fragment">Chats Fragment</string>
+    <string name="groups_fragment">Groups Fragment</string>
+    <string name="user_name">User_Name</string>
+</resources>

@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "723584727202",
+    "firebase_url": "https://ekuegertalk.firebaseio.com",
+    "project_id": "ekuegertalk",
+    "storage_bucket": "ekuegertalk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723584727202:android:c32ff289ad4f4f8d",
+        "android_client_info": {
+          "package_name": "com.example.kaddour.ekuegertalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "723584727202-t5s5o71k1d2c4gbur5ef9sh4f4kfj9eq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kaddour.ekuegertalk",
+            "certificate_hash": "24f666c23c05bfa8cd58b6c78d16752390c51088"
+          }
+        },
+        {
+          "client_id": "723584727202-3l3i186q4if2l3tfc75cfme9sv3ser1e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kaddour.ekuegertalk",
+            "certificate_hash": "7618b5e315eb2f2815caddece0121c48874aff2e"
+          }
+        },
+        {
+          "client_id": "723584727202-ahr8mav7a3h3quob6osvprrma8h5lmi0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlJzH1azBCkHZI9LFmwAPTy1djlMXuG10"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "723584727202-ahr8mav7a3h3quob6osvprrma8h5lmi0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
